@@ -1,4 +1,5 @@
-{ "movie"
+{ 
+  "movie":
 [{"id":1,"name":"Back to the Secret Garden","genre":"Adventure|Children|Fantasy"},
 {"id":2,"name":"Flesh","genre":"Drama"},
 {"id":3,"name":"Moment of Innocence, A (Nun va Goldoon)","genre":"Drama"},
@@ -29,3 +30,4 @@
 {"id":28,"name":"Natural, The","genre":"Drama"},
 {"id":29,"name":"Shadows of Liberty ","genre":"Documentary"},
 {"id":30,"name":"Sam's Song","genre":"Drama"}]
+}
